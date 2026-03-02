@@ -24,25 +24,25 @@ India has over **150 million smallholder farmers**, yet most earn only 30–40% 
 
 ### Onboarding
 - Splash Screen
-![Splash Screen](screenshots/01_splash.png)
+![Splash Screen](screenshots_jpeg/01_splash.jpg)
 - Language Selection
-![Language Selection](screenshots/02_language.png)
+![Language Selection](screenshots_jpeg/02_language.jpg)
 - Role Selection
-![Role Selection](screenshots/03_role_select.png)
+![Role Selection](screenshots_jpeg/03_role_select.jpg)
 - Registration
-![Registration](screenshots/04_register.png)
+![Registration](screenshots_jpeg/04_register.jpg)
 
 ### Farmer Features
 - Farmer Dashboard
-![Farmer Dashboard](screenshots/05_dashboard.png)
+![Farmer Dashboard](screenshots_jpeg/05_dashboard.jpg)
 - Crop Listings
-![Crop Listings](screenshots/06_listings.png)
+![Crop Listings](screenshots_jpeg/06_listings.jpg)
 - Live Mandi Prices
-![Live Mandi Prices](screenshots/07_mandi.png)
+![Live Mandi Prices](screenshots_jpeg/07_mandi.jpg)
 - Learning Videos
-![Learning Videos](screenshots/08_videos.png)
+![Learning Videos](screenshots_jpeg/08_videos.jpg)
 - My Profile
-![My Profile](screenshots/09_profile.png)
+![My Profile](screenshots_jpeg/09_profile.jpg)
 
 ## ✨ Features
 
