@@ -90,6 +90,9 @@ India has over **150 million smallholder farmers**, yet most earn only 30–40% 
 3. Open the downloaded file on your phone.
 4. If prompted, allow **"Install from unknown sources"** in your settings.
 5. Tap **Install** and open Suvvi 🌾.
+To use the app, you will need the test phone numbers added in the firebase authentication system, DM me on My Linkedin to get your mobile number added or to get already added Numbers and OTPs.
+
+[Linkedin](https://www.linkedin.com/in/gvvk)
 
 ⚠️ Since this app is not yet on the Play Store, you need to allow installation from unknown sources. The APK is built and signed by our team and is completely safe.
 
